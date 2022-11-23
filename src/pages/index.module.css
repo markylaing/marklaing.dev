@@ -3,6 +3,14 @@
  * and scoped locally.
  */
 
+p a {
+  color: antiquewhite;
+}
+
+a:hover {
+  color: white;
+}
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;

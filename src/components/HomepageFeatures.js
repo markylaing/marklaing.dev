@@ -9,7 +9,7 @@ const FeatureList = [
     link: 'https://www.linkedin.com/in/mark-laing/'
   },
   {
-    title: 'CV',
+    title: 'CV (outdated)',
     imgPath: '/img/cv.png',
     link: '/cv.pdf'
   },

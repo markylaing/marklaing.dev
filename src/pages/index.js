@@ -11,8 +11,8 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">Welcome!</h1>
-        <p>I'm a Software Engineer based in Manchester, UK.</p>
-        <p>This site is for experimentation, blogs, and as a portfolio.</p>
+        <p>Software Engineer @ <a href="https://ubuntu.com/lxd">Canonical (LXD)</a> based in Newcastle upon Tyne, UK.</p>
+        <p>This site is just a landing page for professional links &#128522;.</p>
       </div>
     </header>
   );
